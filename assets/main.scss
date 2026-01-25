@@ -1,21 +1,26 @@
 ---
 ---
-/* The dashes above are CRITICAL. Do not remove them. */
-
 @import "minima";
 
 /* --- SBSG Color Palette --- */
-$ocean-blue: #2A5CA6;  /* Secondary Accent */
+$ocean-blue: #2A5CA6;  /* Blue for hover states */
 $cliff-rust: #A64B2A;  /* Accent */
-$thrift-pink: #D99AC5; /* DOMINANT Brand Color */
-$pink-text:   #C07AA0; /* Accessible darker pink for text links */
-$pale-grass: #F2E8CF;  /* Warm Background */
-$text-dark: #1A1A1A;
+$thrift-pink: #D99AC5; /* Bright Pink for BORDERS only */
+
+/* --- UPDATED COLORS --- */
+/* 1. Background is now pure white */
+$bg-color:   #ffffff; 
+
+/* 2. Main Body Text: Deep Aubergine (Dark Purple-Grey) */
+$text-body:  #2E2129; 
+
+/* 3. Headings & Links: A richer, darker Raspberry/Purple */
+$text-accent:#9E4770; 
 
 /* --- Global Overrides --- */
 body {
-  background-color: $pale-grass;
-  color: $text-dark;
+  background-color: $bg-color;
+  color: $text-body; /* Applies the dark purple text everywhere */
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
@@ -23,24 +28,24 @@ body {
 .site-header {
   background-color: #ffffff;
   border-top: 8px solid $thrift-pink; 
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 1px solid #f0f0f0;
   min-height: 60px;
 }
 
 .site-title, .site-title:visited {
-  color: $pink-text; 
+  color: $text-accent; 
   font-weight: bold;
   font-size: 26px;
 }
 
 .site-nav .page-link {
-  color: $text-dark;
+  color: $text-body; /* Nav links are the dark purple body color */
   font-weight: 500;
 }
 
 /* --- Link Styling --- */
 a, .post-link {
-  color: $pink-text;
+  color: $text-accent; /* Links are the richer pink/purple */
 }
 
 a:hover {
@@ -49,8 +54,8 @@ a:hover {
 }
 
 /* --- Headings --- */
-h1, h2, h3 {
-    color: $pink-text;
+h1, h2, h3, h4 {
+    color: $text-accent;
     margin-top: 30px;
 }
 
@@ -66,7 +71,6 @@ h1, h2, h3 {
 }
 
 /* --- Wrapper Fix --- */
-/* This ensures the content doesn't touch the very edge of the screen */
 .wrapper {
   max-width: 800px;
   margin-right: auto;
