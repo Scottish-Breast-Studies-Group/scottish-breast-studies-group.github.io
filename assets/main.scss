@@ -7,14 +7,13 @@ $ocean-blue: #2A5CA6;  /* Blue for hover states */
 $cliff-rust: #A64B2A;  /* Accent */
 $thrift-pink: #D99AC5; /* Bright Pink for BORDERS only */
 
-/* --- UPDATED COLORS --- */
-/* 1. Background is now pure white */
+/* Background is pure white */
 $bg-color:   #ffffff; 
 
-/* 2. Main Body Text: Deep Aubergine (Dark Purple-Grey) */
+/* Main Body Text: Deep Aubergine (Dark Purple-Grey) */
 $text-body:  #2E2129; 
 
-/* 3. Headings & Links: A richer, darker Raspberry/Purple */
+/* Headings & Links: A rich, dark Raspberry/Purple */
 $text-accent:#9E4770; 
 
 /* --- Global Overrides --- */
@@ -65,7 +64,7 @@ h1, h2, h3, h4 {
   max-height: 300px;
   object-fit: cover;
   object-position: center;
-  border-bottom: 6px solid $thrift-pink; 
+  border-bottom: none;
   margin-bottom: 25px;
   display: block;
 }
