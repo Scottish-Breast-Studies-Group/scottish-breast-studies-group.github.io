@@ -1,0 +1,18 @@
+title: Scottish Breast Studies Group
+email: contact@example.com
+description: >-
+  Collaborative research and education in breast studies across Scotland.
+theme: minima
+url: "https://scottish-breast-studies-group.github.io" 
+baseurl: "" 
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Force the order of the navigation tabs
+header_pages:
+  - about.md
+  - webinars.md
+  - centres.md
+  - contact.md
