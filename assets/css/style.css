@@ -1,0 +1,65 @@
+---
+---
+@import "minima";
+
+/* --- SBSG Color Palette --- */
+$ocean-blue: #2A5CA6;  /* Secondary Accent */
+$cliff-rust: #A64B2A;  /* Accent */
+$thrift-pink: #D99AC5; /* DOMINANT Brand Color */
+$pink-text:   #C07AA0; /* Accessible darker pink for text links */
+$pale-grass: #F2E8CF;  /* Warm Background */
+$text-dark: #1A1A1A;
+
+/* --- Global Overrides --- */
+body {
+  background-color: $pale-grass;
+  color: $text-dark;
+}
+
+/* --- Header Styling --- */
+.site-header {
+  background-color: #ffffff;
+  /* Top border is now the dominant pink */
+  border-top: 8px solid $thrift-pink; 
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.site-title, .site-title:visited {
+  /* Title matches the dominant color */
+  color: $pink-text; 
+  font-weight: bold;
+}
+
+.site-nav .page-link {
+  color: $text-dark;
+  font-weight: 500;
+}
+
+/* --- Link Styling --- */
+a, .post-link {
+  /* Links are now the darker pink for readability */
+  color: $pink-text;
+}
+
+a:hover {
+  /* Hover turns blue for contrast */
+  color: $ocean-blue;
+  text-decoration: underline;
+}
+
+/* --- Headings --- */
+h1, h2, h3 {
+    color: $pink-text;
+}
+
+/* --- Banner Styling --- */
+.hero-banner {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  object-position: center;
+  /* Thick pink border under the image */
+  border-bottom: 6px solid $thrift-pink; 
+  margin-bottom: 25px;
+  display: block;
+}
