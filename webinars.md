@@ -20,9 +20,14 @@ We host regular educational webinars covering advancements in breast screening, 
 
 ### 2025
 * Nov 15: *Genetics and Risk Stratification* (Mr. B. Jones)
-* 30th Oct: **Breast Cancer and AI: From Evaluation to Implementation in the NHS** (hosted by The Data Lab Community)  
+* Oct: **Breast Cancer and AI: From Evaluation to Implementation in the NHS** (hosted by The Data Lab Community)  
   * *(Prof Gerald Lip - Clinical Director, North East of Scotland Breast Screening Program)*  
   * [Recording](https://www.youtube.com/watch?v=7t4ftaEYlOQ)  
 
 ### 2024
 * **June 22:** *Management of High-Risk Lesions*
+
+### 2001
+* July: **Neoadjuvant chemotherapy: the basics** (hosted by the iBreastBook)  
+  * *(Prof Iain Macpherson - Professor of Medical Oncology, University of Glasgow)*  
+  * [Recording](https://www.youtube.com/watch?v=O5GoIq-YnsI)  
