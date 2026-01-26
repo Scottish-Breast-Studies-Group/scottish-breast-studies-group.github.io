@@ -20,7 +20,7 @@ We host regular educational webinars covering advancements in breast screening, 
 
 ### 2025
 * **Nov 15:** *Genetics and Risk Stratification* (Mr. B. Jones)
-* **30th Oct:** *Breast Cancer and AI: From Evaluation to Implementation in the NHS*
+* **30th Oct:** *Breast Cancer and AI: From Evaluation to Implementation in the NHS* (hosted by The Data Lab Community)
   * (Prof Gerald Lip - Clinical Director, North East of Scotland Breast Screening Program)  
   * [Recording](https://www.youtube.com/watch?v=7t4ftaEYlOQ)
 
