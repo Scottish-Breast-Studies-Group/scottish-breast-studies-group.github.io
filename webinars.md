@@ -25,7 +25,7 @@ We host regular educational webinars covering advancements in breast screening, 
   * [Recording](https://www.youtube.com/watch?v=7t4ftaEYlOQ)  
 
 ### 2024
-* Jan: *Embedding routine data for enhanced evidence generation from cancer clinical trials*
+* Jan: **Embedding routine data for enhanced evidence generation from cancer clinical trials**
   * *(Prof Peter S Hall, Professor of Oncology, University of Edinburgh)*
   * [Recording](https://media.ed.ac.uk/media/Embedding+routine+data+for+enhanced+evidence+generation+from+cancer+clinical+trials/1_60ov6xqa)  
 
