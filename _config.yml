@@ -13,6 +13,7 @@ plugins:
 # Force the order of the navigation tabs
 header_pages:
   - about.md
+  - studies.md
   - webinars.md
   - centres.md
   - contact.md
