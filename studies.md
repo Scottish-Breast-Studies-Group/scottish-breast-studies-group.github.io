@@ -4,8 +4,6 @@ title: Studies
 permalink: /studies/
 ---
 
-## Active studies
-
 ### SALTO: Scottish Audit of Lung Toxicity with Novel Oncology Therapies.  
 * **Purpose:** The study aims to evaluate the "real world" impact of the drug Trastuzumab Deruxtecan (T-DXd) on Scottish patients. Specifically, it focuses on monitoring the rates and management of a potentially serious lung side effect called Interstitial Lung Disease (ILD), while simultaneously tracking how well the drug works in extending life and delaying cancer progression.  
 * **Population:** Patients in Scotland receiving T-DXd for HER2-positive or HER2-low metastatic breast cancer.  
