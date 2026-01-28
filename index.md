@@ -9,5 +9,5 @@ layout: home
 We are dedicated to collaborative research and education in breast studies across Scotland.
 
 ### Latest Updates
-* **Annual Meeting:** Dates confirmed for November.
-* **New Research:** Multi-centre trials update available in the Members area.
+* **Annual Meeting:** Dates to be confirmed.
+* **Webinar Series:** Coming soon
