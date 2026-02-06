@@ -1,13 +1,35 @@
 ---
 layout: home
+title: Home
+description: "Scottish Breast Studies Group - Clinical academic research network facilitating multi-centre breast cancer studies across Scotland."
 ---
 
-<img src="assets/images/banner_1.png" alt="Scottish Coastline Banner" class="hero-banner">
+<img src="assets/images/banner_1.png" alt="Scottish Coastline" class="hero-banner">
 
-# Welcome to the Scottish Breast Studies Group
+# Scottish Breast Studies Group
 
-We are dedicated to collaborative research and education in breast studies across Scotland.
+The Scottish Breast Studies Group is a multidisciplinary clinical academic research network facilitating collaborative breast cancer studies across Scotland.
 
-### Latest Updates
-* **Annual Meeting:** Dates to be confirmed.
-* **Webinar Series:** Coming soon
+---
+
+## Network Information
+
+The SBSG connects oncologists, surgeons, clinical researchers, pathologists, radiologists, and specialist nurses across Scottish breast units to support multi-centre research and education.
+
+[Learn more about the network](/about) | [View current studies](/studies)
+
+---
+
+## Mailing List
+
+To receive updates on collaborative research opportunities, webinars, and meetings, healthcare professionals may join our mailing list.
+
+<a href="/join" class="network-link">Network mailing list information</a>
+
+---
+
+## Recent Activity
+
+* **SALTO Study:** Multi-centre audit of Trastuzumab Deruxtecan outcomes across Scotland
+* **Annual Meeting 2026:** Dates to be confirmed
+* **Webinar Programme:** Details forthcoming
