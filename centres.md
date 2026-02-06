@@ -4,17 +4,15 @@ title: Centres
 permalink: /centres/
 ---
 
-The Scottish Breast Studies Group represents a collaboration of major breast care and research centres across the country.
-
-## Participating Units
+The Scottish Breast Studies Group represents a collaboration of the major breast units, cancer centres and affiliated research institutes across the country.
 
 ### West of Scotland
 * **Glasgow Royal Infirmary** – *Breast Surgery Unit*
-* **Queen Elizabeth University Hospital**
-* **University Hospital Crosshouse**
+* **Beatson Cancer Centre**
+* **CRUK Scotland Institute, University of Edinburgh**
 
 ### East of Scotland
-* **Western General Hospital, Edinburgh** – *Edinburgh Breast Unit*
+* **Edinburgh Breast Unit**, **Edinburgh Cancer Centre** and **The Institute of Genetics and Cancer** – *Based at the Western General Hospital*
 * **Ninewells Hospital, Dundee**
 
 ### North of Scotland
