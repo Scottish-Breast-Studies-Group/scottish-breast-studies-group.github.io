@@ -2,7 +2,7 @@ title: Scottish Breast Studies Group
 email: secretary@sbsg.scot
 description: >-
   The Scottish Breast Studies Group is a multidisciplinary clinical academic research network
-  facilitating collaborative breast cancer studies across Scotland. We connect clinicians, scientists,
+  facilitating collaborative breast cancer studies across Scotland. We connect clinical researchers, scientists,
   and healthcare professionals dedicated to advancing breast cancer treatment and research.
 
 # SEO Configuration
@@ -19,7 +19,7 @@ url: "https://sbsg.scot"
 baseurl: ""
 
 plugins:
-  - jekyll-feed
+  - jekyll-feed2
   - jekyll-seo-tag
   - jekyll-sitemap
 
