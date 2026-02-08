@@ -14,16 +14,16 @@ The Scottish Breast Studies Group is a multidisciplinary clinical academic resea
 
 <div class="home-cards">
   <div class="home-card">
-    <a href="/about/">
-      <img src="/assets/images/sbsg_scot_square_logo.png" alt="About SBSG">
-    </a>
-    <a href="/about/">About Us</a>
-  </div>
-  <div class="home-card">
     <a href="/studies/">
       <img src="/assets/images/portfolio.png" alt="Current Studies">
     </a>
     <a href="/studies/">Current Studies</a>
+  </div>
+  <div class="home-card">
+    <a href="/about/">
+      <img src="/assets/images/sbsg_scot_square_logo.png" alt="About SBSG">
+    </a>
+    <a href="/about/">About Us</a>
   </div>
   <div class="home-card">
     <a href="/webinars/">
