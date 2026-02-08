@@ -121,6 +121,50 @@ h1, h2, h3 {
   max-height: 120px;
 }
 
+/* --- Home Page Cards --- */
+.home-cards {
+  display: flex;
+  gap: 30px;
+  margin: 30px 0;
+}
+
+.home-card {
+  flex: 1;
+  text-align: center;
+}
+
+.home-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  border: 2px solid $thrift-pink;
+  transition: box-shadow 0.2s ease;
+}
+
+.home-card img:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.home-card a {
+  display: block;
+  font-weight: 600;
+  font-size: 1.1em;
+  margin-top: 10px;
+  color: $pink-text;
+  text-decoration: none;
+}
+
+.home-card a:hover {
+  color: $ocean-blue;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 600px) {
+  .home-cards {
+    flex-direction: column;
+  }
+}
+
 /* --- Page Content Sections --- */
 .page-content hr {
   border: 0;
