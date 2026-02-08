@@ -29,6 +29,7 @@ feed:
 # Force the order of the navigation tabs
 header_pages:
   - about.md
+  - history.md
   - studies.md
   - webinars.md
   - centres.md

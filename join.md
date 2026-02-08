@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Our Network
+title: Join
 permalink: /join/
 description: "Join the Scottish Breast Studies Group mailing list to receive updates on collaborative research opportunities, webinars, and meetings."
 ---
