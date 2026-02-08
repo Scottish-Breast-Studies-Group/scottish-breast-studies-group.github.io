@@ -77,3 +77,106 @@ h1, h2, h3, h4 {
   padding-right: 30px;
   padding-left: 30px;
 }
+
+/* --- Network Link Styling --- */
+.network-link {
+  display: inline-block;
+  background-color: $thrift-pink;
+  color: #ffffff;
+  padding: 12px 24px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  margin: 15px 0;
+}
+
+.network-link:hover {
+  background-color: $text-accent;
+  color: #ffffff;
+  text-decoration: none;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* --- Footer Styling --- */
+.site-footer .footer-col-1 {
+  width: calc(25% - 30px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.site-footer .footer-col-2 {
+  width: calc(40% - 30px);
+}
+
+.site-footer .footer-col-3 {
+  width: calc(35% - 30px);
+}
+
+.footer-logo {
+  max-width: 100%;
+  height: auto;
+  max-height: 120px;
+}
+
+/* --- Home Page Cards --- */
+.home-cards {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  gap: 30px;
+  margin: 30px 0;
+}
+
+.home-card {
+  flex: 1 1 0 !important;
+  width: 33.333% !important;
+  max-width: 33.333%;
+  text-align: center;
+}
+
+.home-card img {
+  max-width: 100%;
+  max-height: 250px;
+  height: auto;
+  border-radius: 4px;
+  border: 2px solid $thrift-pink;
+  transition: box-shadow 0.2s ease;
+  object-fit: contain;
+}
+
+.home-card img:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.home-card a {
+  display: block;
+  font-weight: 600;
+  font-size: 1.1em;
+  margin-top: 10px;
+  color: $text-accent;
+  text-decoration: none;
+}
+
+.home-card a:hover {
+  color: $ocean-blue;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 600px) {
+  .home-cards {
+    flex-direction: column !important;
+  }
+  .home-card {
+    width: 100% !important;
+    max-width: 100%;
+  }
+}
+
+/* --- Page Content Sections --- */
+.page-content hr {
+  border: 0;
+  border-top: 1px solid #e8e8e8;
+  margin: 30px 0;
+}
