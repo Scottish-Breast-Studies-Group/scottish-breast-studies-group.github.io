@@ -26,10 +26,3 @@ To receive updates on collaborative research opportunities, webinars, and meetin
 
 <a href="/join" class="network-link">Network mailing list information</a>
 
----
-
-## Recent Activity
-
-* **SALTO Study:** Multi-centre audit of Trastuzumab Deruxtecan outcomes across Scotland
-* **Annual Meeting 2026:** Dates to be confirmed
-* **Webinar Programme:** Details forthcoming

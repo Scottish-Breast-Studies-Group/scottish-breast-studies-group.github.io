@@ -12,9 +12,7 @@ lang: en-GB
 locale: en_GB
 
 # Organization Information
-author:
-  name: "Scottish Breast Studies Group"
-  email: "secretary@sbsg.scot"
+author: "Scottish Breast Studies Group"
 
 theme: minima
 url: "https://sbsg.scot"
