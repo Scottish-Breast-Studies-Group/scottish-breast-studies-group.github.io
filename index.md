@@ -1,14 +1,14 @@
 ---
 layout: home
 title: Home
-description: "Scottish Breast Studies Group - Clinical academic research network facilitating multi-centre breast cancer studies across Scotland."
+description: "Scottish Breast Studies Group - a multidisciplinary research collaborative for Scotland."
 ---
 
 <img src="assets/images/banner_1.png" alt="Scottish Coastline" class="hero-banner">
 
 # Scottish Breast Studies Group
 
-The Scottish Breast Studies Group is a multidisciplinary clinical academic research network facilitating collaborative breast cancer studies across Scotland.
+The Scottish Breast Studies Group is a multidisciplinary research collaborative for Scotland.
 
 ---
 
