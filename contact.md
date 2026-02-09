@@ -11,7 +11,7 @@ We welcome enquiries from medical professionals, researchers, and potential coll
 ### General Enquiries
 For information regarding membership, upcoming meetings, or general administration:
 
-* **Email:** [secretary@sbsg.scot](mailto:secretary@sbsg.scot) * 
+**Email:** [secretary@sbsg.scot](mailto:secretary@sbsg.scot)  
 
 ---
 
