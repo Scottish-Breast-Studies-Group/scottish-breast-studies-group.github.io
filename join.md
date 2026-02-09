@@ -40,3 +40,5 @@ For further information, see our [Privacy Policy](/privacy).
 ### General Enquiries
 
 For membership questions, please contact [secretary@sbsg.scot](mailto:secretary@sbsg.scot).
+
+<p style="font-size: 0.75em; text-align: center; margin-top: 2em;"><a href="/signup-QR/">Sign-up QR code</a></p>
