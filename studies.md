@@ -32,5 +32,7 @@ It investigates whether Sleep Restriction Therapy (SRT) is a feasible and effect
 
 ---
 
-## Archive
+## Recently Completed Studies
+
+Peters, A.L., Hall, P.S., Jordan, L.B., Soh, F.Y., Hannington, L., Makaranka, S., Urquhart, G., Vallet, M., Cartwright, D., Marashi, H. and Elsberger, B., 2024. Enhancing clinical decision support with genomic tools in breast cancer: A Scottish perspective. The Breast, 75, p.103728. [Fulltext](https://www.thebreastonline.com/article/S0960-9776(24)00059-6/fulltext)
 
