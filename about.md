@@ -10,7 +10,7 @@ The **Scottish Breast Studies Group (SBSG)** is a multidisciplinary forum for cl
 1.  **Collaboration:** To foster links between breast units across Scotland.
 2.  **Research:** To support and initiate multi-centre studies.
 
-The group continues the work of the Scottish Clinical Trials Breast Group (SCTBG) and co-ordinates via the UK Breast Cancer Clinical Studies Group. 
+The group continues the work of the Scottish Clinical Trials Breast Group (SCTBG) and co-ordinates with the UK Breast Cancer Clinical Studies Group. 
 
 ### Study Endorsement
 The Scottish Breast Studies Group provides formal endorsement for projects aiming to improve breast cancer care and outcomes. We welcome applications for the endorsement of research studies, clinical audits, and service evaluations.
