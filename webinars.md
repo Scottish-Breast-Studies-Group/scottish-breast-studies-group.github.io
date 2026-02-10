@@ -4,12 +4,13 @@ title: Webinars
 permalink: /webinars/
 ---
 
-We host regular webinars covering topics in breast screening, surgery, pathology, radiology and oncology.
+We host regular webinars covering topics in breast disease and breast cancer research, diagnosis and management.
 
-## Next Session
-**Topic:** *Breast Cancer Research: A Scottish Legacy*
-* **Date:** TBC
-* **Time:** 13:00 – 13:30 GMT
+## Next Session  
+**Scottish Breast Cancer Clinical Research – a Legacy for the Future?**  
+* **Speaker:** David Cameron, Professor of Oncology, Edinburgh Cancer Centre
+* **Date:** Friday 4th September
+* **Time:** 13:00 – 13:30
 * **Platform:** Microsoft Teams
 * [Registration not yet open ](#)
 
@@ -28,7 +29,7 @@ We host regular webinars covering topics in breast screening, surgery, pathology
   * *(Prof Peter S Hall, Professor of Oncology, University of Edinburgh)*
   * [Recording](https://media.ed.ac.uk/media/Embedding+routine+data+for+enhanced+evidence+generation+from+cancer+clinical+trials/1_60ov6xqa)  
 
-### 2001
+### 2010
 * **Neoadjuvant chemotherapy: the basics** (hosted by the iBreastBook)  
   * *(Prof Iain Macpherson - Professor of Medical Oncology, University of Glasgow)*  
   * [Recording](https://www.youtube.com/watch?v=O5GoIq-YnsI)  
