@@ -7,7 +7,7 @@ permalink: /centres/
 The Scottish Breast Studies Group represents a collaboration of the major breast units, cancer centres and affiliated research institutes across the country.
 
 ### Glasgow
-* **Beatson Cancer Centre**
+* **Beatson West of Scotland Cancer Centre**
 * **CRUK Scotland Institute, University of Glasgow**
 * **Glasgow Breast Surgery Unit** - *based at the Glasgow Royal Infirmary*  
 

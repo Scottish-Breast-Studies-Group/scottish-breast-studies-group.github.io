@@ -13,6 +13,29 @@ permalink: /studies/
 * **Lead Investigator:** Sophie Barrett  
 * ***Why it matters*** *T-DXd has been a game-changer for metastatic breast cancer, but it carries a known risk of lung toxicity (ILD/pneumonitis) which can be fatal if not caught early. Clinical trials happen in controlled environments; this audit is necessary to ensure that in the "real world," Scottish patients are being monitored safely and are achieving the survival benefits seen in global trials.*  
 
+### HER2-RADiCAL: Response ADaptive CAre pLan  
+* **Purpose:** Focusing on patients with HER2-positive early breast cancer, this study investigates a “de-escalation” approach—reducing the intensity of treatment for patients who respond exceptionally well to initial chemotherapy. It tests whether patients who achieve a pathological complete response after pre-surgery treatment can safely receive a shorter duration of trastuzumab and no further chemotherapy or pertuzumab without increasing the risk of the cancer returning.   
+* **[Website](https://www.icr.ac.uk/research-and-discoveries/centres-and-strategic-collaborations/clinical-trials-and-statistics-unit-icr-ctsu/detail/her2-radical)**  
+* **Locations:** Recruiting from approximately 40 NHS hospitals across the UK, including sites in Glasgow (Beatson), Edinburgh, Dundee and Aberdeen.    
+* **Funder:** National Institute for Health and Care Research (NIHR) – Health Technology Assessment (HTA) Programme.  
+* **Lead Investigator:** Prof. Iain Macpherson (University of Glasgow / Beatson West of Scotland Cancer Centre).  
+* ***Why it matters:** Current standard treatment for HER2-positive breast cancer is very intensive and comes with significant side effects, including a risk of heart damage, as well as high costs to the NHS. By identifying patients who have already had an excellent response to early treatment, this study hopes to spare them unnecessary toxicity and long-term side effects while maintaining their high chance of a cure.*  
+
+### ESTABLISH: Exploring Suitable Treatments for Advanced Breast cancer patients with Long-term Insomnia through StakeHolder collaboration.  
+* **Purpose:** The study acknowledges that people with secondary breast cancer have often been excluded from previous sleep studies. Its goal is to co-produce a Cognitive Behavioural Therapy for Insomnia (CBT-I) intervention, specifically tailored to the needs of those living with metastatic breast cancer.  
+* **Locations:** Recruiting patients and healthcare professionals from NHS Greater Glasgow & Clyde and NHS Lothian.  
+* **[Website](https://make2ndscount.co.uk/research/current/establish)**  
+* **Funder:** The charity Make 2nds Count.  
+* **Lead Investigator:** Prof. Leanne Fleming (Director of the Strathclyde Sleep Centre, University of Strathclyde).
+* ***Why it matters:** Standard sleep therapies often fail metastatic patients because they do not account for physical symptoms (like bone metastasis pain) or the unique psychological burden of incurable cancer. This study ensures these patients are not “left behind” in sleep medicine research.*  
+
+### INVEST: INvestigating the Value of Early Sleep Therapy.  
+* **Purpose:** Focusing on people recently diagnosed with breast cancer, this mixed-methods intervention study aims to test a “prehabilitation” approach — intervening early to stop acute sleep problems from becoming chronic insomnia. It investigates whether Sleep Restriction Therapy (SRT) is a feasible, acceptable, and effective treatment for patients who are currently undergoing cancer treatment.  
+* **[Website](https://www.strathclydesleepcentre.com/current-projects/invest/)**  
+* **Locations:** Recruiting from NHS Greater Glasgow & Clyde, NHS Highland, NHS Grampian, and the third sector.  
+* **Funder:** Scottish Government’s Chief Scientist Office (CSO).  
+* **Lead Investigator:** Prof. Leanne Fleming (Strathclyde Sleep Centre, University of Strathclyde).  
+* ***Why it matters:** Research shows that approximately 50% of newly diagnosed breast cancer patients develop acute insomnia. If untreated, this often becomes a long-term (chronic) problem that is much harder to fix later, which can negatively impact people’s physical, cognitive, and psychological wellbeing. This study hopes to “nip it in the bud” during the early treatment phase.*  
 
 
 ---
