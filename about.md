@@ -7,7 +7,7 @@ permalink: /about/
 The **Scottish Breast Studies Group (SBSG)** is a multidisciplinary forum for clinicians, scientists, and healthcare professionals dedicated to the treatment and research of breast cancer and breast disease.
 
 ### Mission
-1.  **Collaboration:** To foster links between breast units across Scotland.
+1.  **Collaboration:** To foster links between breast units and cancer centres across Scotland.
 2.  **Research:** To support and initiate multi-centre studies.
 
 The group continues the work of the Scottish Clinical Trials Breast Group (SCTBG) and co-ordinates with the UK Breast Cancer Clinical Studies Group. 

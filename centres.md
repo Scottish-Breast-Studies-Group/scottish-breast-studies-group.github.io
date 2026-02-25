@@ -4,7 +4,7 @@ title: Centres
 permalink: /centres/
 ---
 
-The Scottish Breast Studies Group represents a collaboration of the major breast units, cancer centres and affiliated research institutes across the country.
+The Scottish Breast Studies Group represents a collaboration of clinicians, healthcare professionals and researchers at the major breast units, cancer centres and affiliated research institutes across the country.
 
 ### Glasgow
 * **Beatson West of Scotland Cancer Centre**
@@ -23,6 +23,3 @@ The Scottish Breast Studies Group represents a collaboration of the major breast
 ### Inverness
 * **Raigmore Hospital and the University of the Highlands and Islands**
 
----
-
-*Note: If your unit is not listed or details require updating, please contact the secretary.*
