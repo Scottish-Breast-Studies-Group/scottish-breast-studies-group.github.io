@@ -4,9 +4,7 @@ title: Studies
 permalink: /studies/
 ---
 
-<details>
-<summary><h3>CESAR: Contrast Enhanced mammography versus magnetic reSonance imaging for Assessing Response to neoadjuvant chemotherapy</h3></summary>
-
+### CESAR: Contrast Enhanced mammography versus magnetic reSonance imaging for Assessing Response to neoadjuvant chemotherapy
 * **Purpose:** This study compares contrast-enhanced mammography (CEM) with magnetic resonance imaging (MRI) to determine if CEM is an equally accurate alternative for monitoring how breast cancer responds to chemotherapy before surgery. It also evaluates which imaging method patients prefer.
 * **Population:** Patients aged 18 and over with invasive breast cancer who are scheduled to receive neoadjuvant chemotherapy.
 * **Method:** A multicentre prospective paired imaging study. Participants undergo both a standard MRI and a CEM scan before starting chemotherapy and again after finishing it. Researchers compare the tumour size measurements from both scans against the actual surgical pathology results.
@@ -17,11 +15,7 @@ permalink: /studies/
 * **Lead Investigator:** Dr. Sarah Savaridas (University of Dundee).
 * ***Why it matters:*** *MRI is the standard tool for checking how a tumour shrinks during chemotherapy, but the scans are expensive, time-consuming, and difficult for some patients to tolerate. CEM uses a standard mammogram machine with an injected dye, making it quicker, cheaper, and potentially easier on the patient. Proving CEM is as effective as MRI would improve patient comfort and reduce the strain on hospital resources.*
 
-</details>
-
-<details>
-<summary><h3>EDITH: Early Detection using Information Technology in Health</h3></summary>
-
+### EDITH: Early Detection using Information Technology in Health
 * **Purpose:** This landmark trial evaluates whether artificial intelligence can safely support NHS breast cancer screening. It tests whether AI-assisted mammogram reading can match or improve upon the current standard of double-reading by two specialists, potentially enabling a single expert supported by AI to complete the same screening process safely and efficiently.
 * **Population:** Approximately 660,000 women attending routine NHS breast screening appointments across the UK.
 * **Method:** A multicentre randomised trial across approximately 30 breast screening centres. Participants are allocated to one of three groups: (1) standard screening by two NHS experts; (2) AI review after expert assessment to identify potentially missed cancers; or (3) AI provides a likelihood assessment before expert review, determining whether one or two experts examine the images. Five competing AI platforms are being tested.
@@ -32,11 +26,7 @@ permalink: /studies/
 * **Lead Investigator:** Prof. Sian Taylor-Phillips (University of Warwick). **Scottish Lead:** Prof. Gerald Lip (University of Aberdeen / NHS Grampian).
 * ***Why it matters:*** *The UK faces a significant and growing shortage of radiologists — a 30% shortfall reported in 2023, projected to reach 40% by 2028. Two specialists are currently required to review every mammogram, placing enormous pressure on screening services. If AI can safely take on part of this workload, it could free up over 100,000 clinician hours annually, reduce waiting times, and help catch cancers earlier. The results will directly inform UK government decisions on implementing AI in national screening programmes.*
 
-</details>
-
-<details>
-<summary><h3>SALTO: Scottish Audit of Lung Toxicity with Novel Oncology Therapies.</h3></summary>
-
+### SALTO: Scottish Audit of Lung Toxicity with Novel Oncology Therapies.
 * **Purpose:** The study aims to evaluate the "real world" impact of the drug Trastuzumab Deruxtecan (T-DXd) on Scottish patients. Specifically, it focuses on monitoring the rates and management of a potentially serious lung side effect called Interstitial Lung Disease (ILD), while simultaneously tracking how well the drug works in extending life and delaying cancer progression.
 * **Population:** Patients in Scotland receiving T-DXd for HER2-positive or HER2-low metastatic breast cancer.
 * **Method:** This is a multicentre clinical audit (retrospective data collection). It reviews patient records to see how the drug is performing outside of strictly controlled clinical trials.
@@ -45,11 +35,7 @@ permalink: /studies/
 * **Lead Investigator:** Sophie Barrett
 * ***Why it matters*** *T-DXd has been a game-changer for metastatic breast cancer, but it carries a known risk of lung toxicity (ILD/pneumonitis) which can be fatal if not caught early. Clinical trials happen in controlled environments; this audit is necessary to ensure that in the "real world," Scottish patients are being monitored safely and are achieving the survival benefits seen in global trials.*
 
-</details>
-
-<details>
-<summary><h3>HER2-RADiCAL: Response ADaptive CAre pLan</h3></summary>
-
+### HER2-RADiCAL: Response ADaptive CAre pLan
 * **Purpose:** Focusing on patients with HER2-positive early breast cancer, this study investigates a "de-escalation" approach—reducing the intensity of treatment for patients who respond exceptionally well to initial chemotherapy. It tests whether patients who achieve a pathological complete response after pre-surgery treatment can safely receive a shorter duration of trastuzumab and no further chemotherapy or pertuzumab without increasing the risk of the cancer returning.
 * **[Website](https://www.icr.ac.uk/research-and-discoveries/centres-and-strategic-collaborations/clinical-trials-and-statistics-unit-icr-ctsu/detail/her2-radical)**
 * **Locations:** Recruiting from approximately 40 NHS hospitals across the UK, including sites in Glasgow (Beatson), Edinburgh, Dundee and Aberdeen.
@@ -57,11 +43,7 @@ permalink: /studies/
 * **Lead Investigator:** Prof. Iain Macpherson (University of Glasgow / Beatson West of Scotland Cancer Centre).
 * ***Why it matters:** Current standard treatment for HER2-positive breast cancer is very intensive and comes with significant side effects, including a risk of heart damage, as well as high costs to the NHS. By identifying patients who have already had an excellent response to early treatment, this study hopes to spare them unnecessary toxicity and long-term side effects while maintaining their high chance of a cure.*
 
-</details>
-
-<details>
-<summary><h3>BREAST-AI: Breast cancer clinical Record Evaluation and AI-powered Summary Tool</h3></summary>
-
+### BREAST-AI: Breast cancer clinical Record Evaluation and AI-powered Summary Tool
 * **Purpose:** To validate the accuracy, clinical utility, and stakeholder acceptability of an AI-powered clinical summary system that automatically integrates data from multiple NHS sources and presents comprehensive, personalised breast cancer care information through clinician-facing and patient-facing web based interfaces.
 * **Population:** Adults (≥18 years) with a diagnosis of breast cancer under active oncology follow-up, recruited from three NHS breast oncology departments across two health boards.
 * **Method:** Sequential two-phase mixed-methods study. Phase 1 is a cross-sectional in silico technical validation comparing AI-extracted clinical datapoints and AI-generated summaries against specialist registrar reference standards. Phase 2 is a prospective human factors evaluation comprising patient feedback sessions, clinician think-aloud simulation, structured observation, blinded cross-site treatment decision concordance assessment, and semi-structured interviews.
@@ -71,11 +53,7 @@ permalink: /studies/
 * **Lead Investigator:** Dr Samuel J McInerney (Medical Oncology Registrar, Beatson West of Scotland Cancer Centre / University of Edinburgh).
 * ***Why it matters:*** *Clinicians spend a substantial proportion of time navigating fragmented information across multiple disconnected NHS systems.  This study tests a novel LLM-powered summary tool to see if it can safely consolidate that information into a single dashboard, supporting faster treatment decisions without compromising accuracy, whilst also giving patients a clear, accessible record of their own cancer journey.*
 
-</details>
-
-<details>
-<summary><h3>ESTABLISH: Exploring Suitable Treatments for Advanced Breast cancer patients with Long-term Insomnia through StakeHolder collaboration.</h3></summary>
-
+### ESTABLISH: Exploring Suitable Treatments for Advanced Breast cancer patients with Long-term Insomnia through StakeHolder collaboration.
 * **Purpose:** The study acknowledges that people with secondary breast cancer have often been excluded from previous sleep studies. Its goal is to co-produce a Cognitive Behavioural Therapy for Insomnia (CBT-I) intervention, specifically tailored to the needs of those living with metastatic breast cancer.
 * **Locations:** Recruiting patients and healthcare professionals from NHS Greater Glasgow & Clyde and NHS Lothian.
 * **[Website](https://make2ndscount.co.uk/research/current/establish)**
@@ -83,19 +61,13 @@ permalink: /studies/
 * **Lead Investigator:** Prof. Leanne Fleming (Director of the Strathclyde Sleep Centre, University of Strathclyde).
 * ***Why it matters:** Standard sleep therapies often fail metastatic patients because they do not account for physical symptoms (like bone metastasis pain) or the unique psychological burden of incurable cancer. This study ensures these patients are not "left behind" in sleep medicine research.*
 
-</details>
-
-<details>
-<summary><h3>INVEST: INvestigating the Value of Early Sleep Therapy.</h3></summary>
-
+### INVEST: INvestigating the Value of Early Sleep Therapy.
 * **Purpose:** Focusing on people recently diagnosed with breast cancer, this mixed-methods intervention study aims to test a "prehabilitation" approach — intervening early to stop acute sleep problems from becoming chronic insomnia. It investigates whether Sleep Restriction Therapy (SRT) is a feasible, acceptable, and effective treatment for patients who are currently undergoing cancer treatment.
 * **[Website](https://www.strathclydesleepcentre.com/current-projects/invest/)**
 * **Locations:** Recruiting from NHS Greater Glasgow & Clyde, NHS Highland, NHS Grampian, and the third sector.
 * **Funder:** Scottish Government's Chief Scientist Office (CSO).
 * **Lead Investigator:** Prof. Leanne Fleming (Strathclyde Sleep Centre, University of Strathclyde).
 * ***Why it matters:** Research shows that approximately 50% of newly diagnosed breast cancer patients develop acute insomnia. If untreated, this often becomes a long-term (chronic) problem that is much harder to fix later, which can negatively impact people's physical, cognitive, and psychological wellbeing. This study hopes to "nip it in the bud" during the early treatment phase.*
-
-</details>
 
 
 ---
