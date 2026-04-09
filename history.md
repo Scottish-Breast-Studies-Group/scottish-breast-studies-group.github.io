@@ -44,7 +44,7 @@ In Dundee, Professor Alastair Thompson became a critical leader in this space. S
 
 ## Radiotherapy Optimization (2000s)
 
-Under the leadership of Professor Ian Kunkler, the Group conducted radiotherapy trials designed to assess treatment necessity. PRIME II was a randomized trial that recruited over 1,300 women aged 65 and over. It demonstrated that for low-risk, hormone receptor-positive patients, omitting radiotherapy after breast-conserving surgery was a safe option that did not impact overall survival. SUPREMO (BIG 2-04) was a trial that investigated the role of chest-wall radiotherapy following mastectomy in intermediate-risk disease, refining the selection criteria for post-mastectomy radiation.
+Under the leadership of Professor Ian Kunkler, the Group conducted radiotherapy trials designed to assess treatment necessity. PRIME II was a randomized trial that recruited over 1,300 women aged 65 and over. It demonstrated that for low-risk, hormone receptor-positive patients, omitting radiotherapy after breast-conserving surgery was a safe option that did not impact overall survival. SUPREMO (BIG 2-04) was a trial that investigated the role of chest-wall radiotherapy following mastectomy in intermediate-risk disease, refining the selection criteria for post-mastectomy radiation. Professor  Kunkler, a Professor of Clinical Oncology at the University of Edinburgh, was named to the 2026 TIME100 Health list, which recognizes the 100 most influential individuals in global health.  
 
 ## International Leadership
 

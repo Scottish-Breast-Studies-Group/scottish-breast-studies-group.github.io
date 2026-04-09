@@ -24,13 +24,3 @@ We host regular webinars covering topics in breast disease and breast cancer res
 * **Breast Cancer and AI: From Evaluation to Implementation in the NHS** (hosted by The Data Lab Community)  
   * *(Prof Gerald Lip - Clinical Director, North East of Scotland Breast Screening Program)*  
   * [Recording](https://www.youtube.com/watch?v=7t4ftaEYlOQ)  
-
-### 2024
-* **Embedding routine data for enhanced evidence generation from cancer clinical trials**
-  * *(Prof Peter S Hall, Professor of Oncology, University of Edinburgh)*
-  * [Recording](https://media.ed.ac.uk/media/Embedding+routine+data+for+enhanced+evidence+generation+from+cancer+clinical+trials/1_60ov6xqa)  
-
-### 2010
-* **Neoadjuvant chemotherapy: the basics** (hosted by the iBreastBook)  
-  * *(Prof Iain Macpherson - Professor of Medical Oncology, University of Glasgow)*  
-  * [Recording](https://www.youtube.com/watch?v=O5GoIq-YnsI)  
