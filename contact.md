@@ -13,8 +13,8 @@ For information regarding membership, upcoming meetings, or general administrati
 
 **Email:** [secretary@sbsg.scot](mailto:secretary@sbsg.scot)  
 
-
 Administrative support is provided by the [Edinburgh Cancer Informatics Research Group](https://edinburghcancerinformatics.org.uk)
+
 ---
 
 
