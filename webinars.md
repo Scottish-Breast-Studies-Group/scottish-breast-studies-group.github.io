@@ -7,13 +7,23 @@ permalink: /webinars/
 We host regular webinars covering topics in breast disease and breast cancer research, diagnosis and management.
 
 ## Next Session  
-**Scottish Breast Cancer Clinical Research – a Legacy for the Future?**  
+**Scottish Breast Research Legacy**
+
 * **Speaker:** David Cameron, Professor of Oncology, Edinburgh Cancer Centre
-* **Date:** Friday 18th September
+* **Date:** Friday 4th September 2026
 * **Time:** 13:00 – 13:45
 * **Platform:** Microsoft Teams
-* [Registration not yet open ](#)
-...
+* **Registration:** Details to follow
+
+## Programme
+
+| Date | Speaker | Topic |
+| --- | --- | --- |
+| 4 September 2026 | David Cameron (Edinburgh) | Scottish Breast Research Legacy |
+| October 2026 (date to be confirmed) | Rob Stein (to be confirmed) | OPTIMA trial|
+| 6 November 2026 | Iain MacPherson | HER2-RADICAL trial |
+| 7 December 2026 | Joel Allotey and Sylvia Kamya | SPRINT Study (Cardio-oncology) |
+| January 2027 (provisionally 18 or 25 January) | Vassilis Pitsinis and colleagues (Dundee) | ICG tracer research |
 
 ---
 
