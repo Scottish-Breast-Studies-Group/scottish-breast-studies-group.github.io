@@ -179,3 +179,121 @@ h1, h2, h3, h4 {
   border-top: 1px solid #e8e8e8;
   margin: 30px 0;
 }
+
+/* --- Featured Blog Post --- */
+.blog-feature {
+  position: relative;
+  margin: 36px 0 12px;
+  padding: 28px 32px 30px;
+  overflow: hidden;
+  background: #fbf6f9;
+  border-left: 5px solid $thrift-pink;
+}
+
+.blog-feature::after {
+  content: "";
+  position: absolute;
+  right: -55px;
+  bottom: -65px;
+  width: 150px;
+  height: 150px;
+  border: 24px solid rgba($thrift-pink, 0.18);
+  border-radius: 50%;
+}
+
+.blog-feature-label {
+  margin: 0 0 4px;
+  color: $cliff-rust;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.blog-feature h2 {
+  margin: 0 0 18px;
+  font-size: 1.15rem;
+}
+
+.blog-feature h3 {
+  max-width: 600px;
+  margin: 0 0 4px;
+  font-size: 1.65rem;
+  line-height: 1.25;
+}
+
+.blog-feature h3 a {
+  text-decoration: none;
+}
+
+.blog-feature p:not(.blog-feature-label):not(.blog-feature-byline) {
+  position: relative;
+  z-index: 1;
+  max-width: 620px;
+}
+
+.blog-feature-byline {
+  margin: 0 0 16px;
+  color: #66545e;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.blog-feature-link {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  margin-top: 4px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* --- Blog Article --- */
+.post-content {
+  font-size: 1.04rem;
+  line-height: 1.72;
+}
+
+.post-content h2 {
+  margin-top: 2.2em;
+}
+
+.post-standfirst {
+  margin-bottom: 10px;
+  color: #58444f;
+  font-size: 1.22rem;
+  line-height: 1.55;
+}
+
+.post-byline {
+  margin-bottom: 28px;
+  color: $text-accent;
+  font-weight: 700;
+}
+
+.editor-introduction {
+  margin: 28px 0 34px;
+  padding: 22px 25px 8px;
+  background: #fbf6f9;
+  border-top: 3px solid $thrift-pink;
+  font-size: 0.94rem;
+  line-height: 1.65;
+}
+
+@media screen and (max-width: 600px) {
+  .blog-feature {
+    padding: 24px 22px 26px;
+  }
+
+  .blog-feature h3 {
+    font-size: 1.4rem;
+  }
+
+  .post-content {
+    font-size: 1rem;
+  }
+
+  .post-standfirst {
+    font-size: 1.12rem;
+  }
+}
