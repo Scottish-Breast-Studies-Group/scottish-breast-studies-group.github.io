@@ -19,11 +19,11 @@ We host regular webinars covering topics in breast disease and breast cancer res
 
 | Date | Speaker | Topic |
 | --- | --- | --- |
-| 4 September 2026 | David Cameron (Edinburgh) | Scottish Breast Research Legacy |
-| October 2026 (date to be confirmed) | Rob Stein (to be confirmed) | OPTIMA trial|
-| 6 November 2026 | Iain MacPherson | HER2-RADICAL trial |
-| 7 December 2026 | Joel Allotey and Sylvia Kamya | SPRINT Study (Cardio-oncology) |
-| January 2027 (provisionally 18 or 25 January) | Vassilis Pitsinis and colleagues (Dundee) | ICG tracer research |
+| 4 September 2026 | David Cameron (Edinburgh) | **Scottish Breast Research Legacy:** Scotland's contribution to breast cancer clinical research, from landmark trials of breast-conserving treatment and adjuvant therapy to contemporary international studies. |
+| October 2026 (date to be confirmed) | Rob Stein (to be confirmed) | **[OPTIMA trial](https://www.optimabreaststudy.com/):** Using tumour gene-expression testing to determine whether people with hormone-sensitive, HER2-negative early breast cancer can safely avoid chemotherapy after surgery. |
+| 6 November 2026 | Iain MacPherson | **[HER2-RADiCAL trial](https://www.icr.ac.uk/research-and-discoveries/centres-and-strategic-collaborations/clinical-trials-and-statistics-unit-icr-ctsu/detail/her2-radical):** Investigating whether people with early HER2-positive breast cancer who respond completely to treatment before surgery can safely receive less drug treatment afterwards. |
+| 7 December 2026 | Joel Allotey and Sylvia Kamya | **SPRINT Study (Cardio-oncology):** How anthracycline chemotherapy affects heart and skeletal-muscle function in people with early breast cancer, and approaches to reducing treatment-related impairment and fatigue. |
+| January 2027 (provisionally 18 or 25 January) | Vassilis Pitsinis and colleagues (Dundee) | **[ICG tracer research](https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/influence-indocyanine-green-node-fluorescence-study/):** Using indocyanine green fluorescence as a non-radioactive tracer to identify sentinel lymph nodes during surgery for early breast cancer. |
 
 ---
 
