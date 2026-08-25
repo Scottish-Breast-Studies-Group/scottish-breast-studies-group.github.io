@@ -13,8 +13,8 @@ We host regular webinars covering topics in breast disease and breast cancer res
 * **Date:** Friday 4th September 2026
 * **Time:** 13:10 – 13:50
 * **Platform:** Microsoft Teams
-* **Registration:** [Register here](https://events.teams.microsoft.com/event/c4ffbd39-e9ae-46a7-8af5-ba936480fcff@2e9f06b0-1669-4589-8789-10a06934dc61?source=copyLinkLegacyShareEventDialog)
-*In this opening webinar from SBSG, Professor David Cameron will reflect on the legacy of breast clinical trials in Scotland and lay our his vision for future collaborative breast research in Scotland and as a partner in global research programmes.*
+* **Registration:** [Register here](https://events.teams.microsoft.com/event/c4ffbd39-e9ae-46a7-8af5-ba936480fcff@2e9f06b0-1669-4589-8789-10a06934dc61?source=copyLinkLegacyShareEventDialog)  
+*In this opening webinar from SBSG, Professor David Cameron will reflect on the legacy of breast clinical trials in Scotland and lay our his vision for future collaborative breast research in Scotland and present the opportunities for Scottish Breast Units to participate as partners in global research programmes.*
 
 ## Programme
 
