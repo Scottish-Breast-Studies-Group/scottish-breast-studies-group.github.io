@@ -31,12 +31,17 @@ We host regular webinars covering topics in breast disease and breast cancer res
 ---
 
 ## Archive
-*Recorded sessions are available for members.*
+*Recordings of past sessions are on our [YouTube channel](https://www.youtube.com/@ScottishBreastStudiesGroup).*
 
 ### 2026
 * **Scottish Breast Research Legacy** (4 September 2026)  
   * *(Professor David Cameron, Edinburgh)*  
   * Scotland's contribution to breast cancer clinical research, from landmark trials of breast-conserving treatment and adjuvant therapy to contemporary international studies.
+  * [Watch on YouTube](https://youtu.be/RUOAVpBcf9o) (42 minutes, with captions and chapters)
+
+<div style="position:relative;width:100%;max-width:720px;aspect-ratio:16/9;margin:0.5em 0 1.5em;">
+  <iframe src="https://www.youtube-nocookie.com/embed/RUOAVpBcf9o" title="Scotland – punching above its weight: Professor David Cameron, SBSG Webinar 1" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ### 2025
 * **Breast Cancer and AI: From Evaluation to Implementation in the NHS** (hosted by The Data Lab Community)  

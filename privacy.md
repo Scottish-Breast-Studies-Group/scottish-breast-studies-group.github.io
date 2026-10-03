@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-**Last Updated:** February 2026
+**Last Updated:** October 2026
 
 ## Introduction
 
@@ -41,6 +41,14 @@ Email addresses are retained only while individuals remain subscribed to the mai
 ## Data Sharing
 
 SBSG does not share, sell, or transfer email addresses or personal information to third parties. Data is used exclusively for SBSG communications.
+
+## Website Analytics
+
+This website uses Google Analytics to record how visitors use the site, such as which pages are viewed and how visitors arrived. Google Analytics sets cookies in your browser and processes information about your device, browser and approximate location on Google's servers. We use the resulting statistics only to understand and improve the website, and we do not use them to identify individual visitors.
+
+## Embedded Videos
+
+Recordings of SBSG webinars are hosted on YouTube and embedded on some pages of this website. The videos are embedded in YouTube's privacy-enhanced mode, so YouTube does not set cookies or receive information about your visit until you press play. Once you play a video, YouTube processes your viewing information under the [Google Privacy Policy](https://policies.google.com/privacy). The same recordings are listed on our [YouTube channel](https://www.youtube.com/@ScottishBreastStudiesGroup), where YouTube's own cookie and privacy settings apply.
 
 ## Individual Rights
 
