@@ -1,0 +1,42 @@
+# Items shown in the News section of the home page, in this order.
+# Each item disappears after its show_until date (checked whenever the site rebuilds).
+# highlight is an optional extra line shown until highlight_until.
+# See README.md, "Updating the news section".
+
+- label: Next webinar
+  title: "Update on the CESAR trial"
+  when: "Monday 5 October 2026, 13:10 to 13:40, Microsoft Teams"
+  summary: >-
+    Dr Sarah Savaridas (University of Dundee) reports progress on CESAR, a multicentre
+    trial comparing contrast-enhanced mammography with MRI for assessing response to
+    neoadjuvant chemotherapy. Chaired by Professor Gerald Lip.
+  link_text: Register for the webinar
+  link_url: "https://events.teams.microsoft.com/event/b65cca12-2d29-4ebc-a3f2-cc04337b6e38@2e9f06b0-1669-4589-8789-10a06934dc61?source=copyLinkLegacyShareLinkDialog"
+  second_link_text: Full webinar programme
+  second_link_url: /webinars/
+  show_until: 2026-10-05
+
+- label: Conference
+  title: "EBCSS 2027: Edinburgh Breast Cancer Special Symposium"
+  when: "Thursday 25 and Friday 26 February 2027, Edinburgh International Conference Centre"
+  summary: >-
+    The Edinburgh Breast Cancer Special Symposium takes place in Edinburgh in February 2027, with more
+    than 30 keynote lectures across 12 themes from speakers including Lisa Carey, Judy
+    Boughey, Giuseppe Curigliano, Fatima Cardoso and David Cameron. A public lecture and
+    panel discussion on breast cancer takes place on Wednesday 24 February at 16:30.
+  highlight: "Early-bird registration closes at 17:00 on Monday 5 October 2026."
+  highlight_until: 2026-10-05
+  link_text: Tickets and programme at ebcss.org
+  link_url: "https://www.ebcss.org/"
+  show_until: 2027-02-26
+
+- label: Watch again
+  title: "Webinar 1 recording: Scotland's breast cancer research legacy"
+  when: "Recorded 4 September 2026"
+  summary: >-
+    Professor David Cameron's talk on Scotland's record in breast cancer clinical
+    research, and where the country could lead again, is now available to watch with
+    captions and chapters.
+  link_text: Watch the recording
+  link_url: /webinars/#archive
+  show_until: 2026-12-31

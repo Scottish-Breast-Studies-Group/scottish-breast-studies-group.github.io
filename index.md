@@ -12,6 +12,10 @@ The Scottish Breast Studies Group is a multidisciplinary research collaborative 
 
 ---
 
+{% include news.html %}
+
+---
+
 <div class="home-cards">
   <div class="home-card">
     <a href="/studies/">

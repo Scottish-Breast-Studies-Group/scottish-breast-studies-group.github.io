@@ -66,6 +66,12 @@ Create a file in `_posts/` named `YYYY-MM-DD-short-title.md` and copy the front 
 
 Upload the image to `assets/images/`, keeping the file under about 500 KB, and reference it as `/assets/images/file-name.png`. Every image needs an `alt` description for screen readers.
 
+### Updating the news section
+
+The News section near the top of the home page is generated from `_data/news.yml`, so editors change that one file rather than the page itself. Each item has a label, title, date line, short summary and one or two links, and items appear in the order they are listed. An item stops appearing after its `show_until` date, and an optional `highlight` line (such as a registration deadline) stops appearing after its `highlight_until` date.
+
+Dates are checked only when the site is rebuilt, which happens when a change is merged into `main`. An expired item therefore stays on the live site until the next change of any kind is published, so remove or update stale items when editing the site. When the next webinar changes, update both `webinars.md` and its item in `_data/news.yml`. Keep three or four items at most, and keep each summary to two or three sentences.
+
 ### Changing the navigation
 
 The tabs and their order are set by the `header_pages` list in `_config.yml`. A new page appears in the navigation only once it is added to that list.

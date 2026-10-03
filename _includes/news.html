@@ -1,0 +1,41 @@
+{%- comment -%}
+  Home page News section. Content lives in _data/news.yml; items past their
+  show_until date are hidden when the site is rebuilt.
+{%- endcomment -%}
+{%- assign now = site.time | date: '%s' | plus: 0 -%}
+{%- capture news_items -%}
+{%- for item in site.data.news -%}
+  {%- assign until = item.show_until | date: '%s' | plus: 86400 -%}
+  {%- if until > now -%}
+  <article class="news-item">
+    <p class="news-label">{{ item.label }}</p>
+    <h3>{{ item.title }}</h3>
+    {%- if item.when %}
+    <p class="news-when">{{ item.when }}</p>
+    {%- endif %}
+    <p>{{ item.summary }}</p>
+    {%- if item.highlight and item.highlight_until -%}
+      {%- assign h_until = item.highlight_until | date: '%s' | plus: 86400 -%}
+      {%- if h_until > now %}
+    <p class="news-highlight">{{ item.highlight }}</p>
+      {%- endif -%}
+    {%- endif %}
+    <p class="news-links">
+      <a href="{{ item.link_url }}">{{ item.link_text }} <span aria-hidden="true">&rarr;</span></a>
+      {%- if item.second_link_url %}
+      <a href="{{ item.second_link_url | relative_url }}" class="news-secondary">{{ item.second_link_text }}</a>
+      {%- endif %}
+    </p>
+  </article>
+  {%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign trimmed = news_items | strip -%}
+{%- if trimmed != "" %}
+<section class="news" aria-labelledby="news-heading">
+  <h2 id="news-heading">News</h2>
+  <div class="news-grid">
+{{ news_items }}
+  </div>
+</section>
+{%- endif %}
