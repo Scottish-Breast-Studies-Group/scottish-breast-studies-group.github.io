@@ -26,7 +26,7 @@ For larger changes, such as new images, several pages at once or layout changes,
 | --- | --- |
 | `index.md` | Home page |
 | `about.md`, `history.md`, `studies.md`, `webinars.md`, `centres.md`, `join.md`, `contact.md` | The pages in the top navigation |
-| `privacy.md` | Privacy policy, covering the mailing list, analytics and embedded videos |
+| `privacy.md` | Privacy policy, covering the mailing list, analytics and video links |
 | `signup-QR.md` | Page reached from the sign-up QR code |
 | `_posts/` | Blog posts |
 | `_config.yml` | Site title, description, analytics ID, plugins and the order of the navigation tabs (`header_pages`) |
@@ -48,15 +48,13 @@ After each webinar, replace the Next Session details with the following session,
 
 ### Adding a webinar recording
 
-Recordings are published on the [SBSG YouTube channel](https://www.youtube.com/@ScottishBreastStudiesGroup). Before a recording is published, confirm that every speaker has agreed to it and that no attendee who has not agreed can be seen, heard or named. Once the video is public, add a link and an embedded player to its Archive entry, replacing `VIDEO_ID` with the code after `youtu.be/` in the video's share link:
+Recordings are published on the [SBSG YouTube channel](https://www.youtube.com/@ScottishBreastStudiesGroup). Before a recording is published, confirm that every speaker has agreed to it and that no attendee who has not agreed can be seen, heard or named. Once the video is public:
 
-```html
-<div style="position:relative;width:100%;max-width:720px;aspect-ratio:16/9;margin:0.5em 0 1.5em;">
-  <iframe src="https://www.youtube-nocookie.com/embed/VIDEO_ID" title="Webinar title and speaker" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-```
+1. Add a 640 x 360 thumbnail image to `assets/images/`, named `webinar-YYYY-MM-DD-topic.jpg`, in the style of the existing ones (dark background, plum edge, title, speaker and date).
+2. Add a card at the start of the `recording-gallery` block in the Archive section of `webinars.md`, copying an existing card and changing the link, image, title and speaker line.
+3. Add an entry under the year heading below the gallery, with a "Watch on YouTube" link.
 
-The `youtube-nocookie.com` address loads YouTube's privacy-enhanced player, which sets no cookies until the visitor presses play, as the privacy policy states. Use this address for every embed so that the policy remains accurate.
+The site links to YouTube rather than embedding the player, so YouTube receives nothing from visitors to sbsg.scot, as the privacy policy states. Do not add embedded players without first updating `privacy.md`.
 
 ### Adding a blog post
 
