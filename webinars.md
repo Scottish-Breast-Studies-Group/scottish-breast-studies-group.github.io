@@ -42,6 +42,11 @@ We host regular webinars covering topics in breast disease and breast cancer res
     <strong>Scotland: punching above its weight</strong>
     <span>Professor David Cameron · 4 September 2026</span>
   </a>
+  <a class="recording-card" href="https://www.youtube.com/watch?v=4AB23KWYF4o">
+    <img src="/assets/images/webinar-2026-06-16-optima.jpg" alt="Lunch with OPTIMA: trial results, Professor Rob Stein" loading="lazy">
+    <strong>Lunch with OPTIMA: Trial Results</strong>
+    <span>Professor Rob Stein · 16 June 2026 · hosted by the OPTIMA trial team</span>
+  </a>
   <a class="recording-card" href="https://www.youtube.com/watch?v=7t4ftaEYlOQ">
     <img src="/assets/images/webinar-2025-ai-lip.jpg" alt="Breast cancer and AI in the NHS, Professor Gerald Lip" loading="lazy">
     <strong>Breast Cancer and AI: From Evaluation to Implementation in the NHS</strong>
@@ -58,13 +63,13 @@ We host regular webinars covering topics in breast disease and breast cancer res
   * *(Professor David Cameron, Edinburgh)*  
   * Scotland's contribution to breast cancer clinical research, from landmark trials of breast-conserving treatment and adjuvant therapy to contemporary international studies.
   * [Watch on YouTube](https://youtu.be/RUOAVpBcf9o) (42 minutes, with captions and chapters)
+* **Lunch with OPTIMA: Trial Results** (16 June 2026, hosted by the OPTIMA trial team)  
+  * *(Professor Rob Stein, UCL)*  
+  * First results of the OPTIMA phase III non-inferiority trial, which randomised 4,429 people with high clinical risk, ER-positive, HER2-negative early breast cancer between standard chemotherapy followed by endocrine therapy and a treatment decision directed by the Prosigna gene-expression test. Patients whose tumours had a risk-of-recurrence score of 60 or below received endocrine therapy alone. Five-year invasive breast cancer-free survival was 91.5% in the control arm and 90.4% in the test-directed arm (hazard ratio 0.99), meeting the non-inferiority margin. SBSG co-chair Iain MacPherson is an author.
+  * Abstract: Stein RC, Makris A, Macpherson IR, et al. First results from the OPTIMA phase III randomized non-inferiority trial of test-directed chemotherapy in patients with high clinical risk ER-positive HER2-negative early breast cancer. *J Clin Oncol* 2026;44(16_suppl):500. [doi:10.1200/JCO.2026.44.16_suppl.500](https://doi.org/10.1200/JCO.2026.44.16_suppl.500)
+  * [Watch on YouTube](https://www.youtube.com/watch?v=4AB23KWYF4o)
 
 ### 2025
 * **Breast Cancer and AI: From Evaluation to Implementation in the NHS** (hosted by The Data Lab Community)  
   * *(Prof Gerald Lip - Clinical Director, North East of Scotland Breast Screening Program)*  
   * [Recording](https://www.youtube.com/watch?v=7t4ftaEYlOQ)  
-
-### Elsewhere
-* **OPTIMA trial first results** (ASCO Annual Meeting, 30 May 2026)  
-  * *(Professor Rob Stein, University College London Hospitals)*  
-  * Rob Stein discusses the first results of OPTIMA, which tested whether a tumour gene-expression test can identify people with hormone-sensitive, HER2-negative early breast cancer who can safely avoid chemotherapy. [Watch the interview on The ASCO Post](https://ascopost.com/videos/asco-2026/robert-c-stein-on-er-positive-her2-negative-early-breast-cancer-test-directed-chemotherapy/)
