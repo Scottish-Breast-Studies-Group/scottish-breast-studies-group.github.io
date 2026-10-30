@@ -24,7 +24,7 @@ We host regular webinars covering topics in breast disease and breast cancer res
 | --- | --- | --- |
 | 6 November 2026 | Iain MacPherson | **[HER2-RADiCAL trial](https://www.icr.ac.uk/research-and-discoveries/centres-and-strategic-collaborations/clinical-trials-and-statistics-unit-icr-ctsu/detail/her2-radical):** Investigating whether people with early HER2-positive breast cancer who respond completely to treatment before surgery can safely receive less drug treatment afterwards. |
 | 7 December 2026 | Joel Allotey and Sylvia Kamya | **SPRINT Study (Cardio-oncology):** How anthracycline chemotherapy affects heart and skeletal-muscle function in people with early breast cancer, and approaches to reducing treatment-related impairment and fatigue. |
-| January 2027 (provisionally 18 or 25 January) | Vassilis Pitsinis and colleagues (Dundee) | **[ICG tracer research](https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/influence-indocyanine-green-node-fluorescence-study/):** Using indocyanine green fluorescence as a non-radioactive tracer to identify sentinel lymph nodes during surgery for early breast cancer. |
+| January 2027 (25 January 13:10pm) | Vassilis Pitsinis and colleagues (Dundee) | **[ICG tracer research](https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/influence-indocyanine-green-node-fluorescence-study/):** Using indocyanine green fluorescence as a non-radioactive tracer to identify sentinel lymph nodes during surgery for early breast cancer. |
 
 ---
 
