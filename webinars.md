@@ -7,24 +7,28 @@ permalink: /webinars/
 We host regular webinars covering topics in breast disease and breast cancer research, diagnosis and management.
 
 ## Next Session  
-**HER2-RADiCAL: can people with HER2-positive early breast cancer who respond completely to treatment before surgery safely receive less treatment afterwards?**
+**SPRINT: how anthracycline chemotherapy affects the heart and skeletal muscle in early breast cancer**
 
-* **Speaker:** Professor Iain MacPherson, Professor of Breast Oncology, University of Glasgow; Honorary Consultant Medical Oncologist, Beatson West of Scotland Cancer Centre
-* **Chair:** Dr Caroline Michie, Consultant Medical Oncologist, Edinburgh Cancer Centre; Honorary Clinical Senior Lecturer, University of Edinburgh
-* **Date:** Friday 6 November 2026
-* **Time:** 13:10 – 13:40
+* **Speakers:** Dr Joel Allotey and Sylvia Kamya, University of Aberdeen
+* **Date:** Monday 7 December 2026
+* **Time:** 13:10 – 13:40 (to be confirmed)
 * **Platform:** Microsoft Teams
-* **Registration:** [Register here](https://events.teams.microsoft.com/event/f4a386b4-d137-49c2-8d27-1d7ae09224f0@2e9f06b0-1669-4589-8789-10a06934dc61?source=copyLinkOneEventsShareDialog)  
+* **Registration:** link to follow
 
-*HER2-RADiCAL is a UK trial that uses the response to treatment before surgery to decide how much HER2-targeted treatment people with early HER2-positive breast cancer need afterwards. Iain will report on the trial's progress, followed by questions chaired by Dr Caroline Michie. Please register in advance to receive the Teams joining link.*
+*SPRINT (Sodium-glucose Transporter Type 2 Inhibition in Anthracycline-related Cardiotoxicity) is a multicentre mechanistic study in people with early breast cancer. Joel and Sylvia will describe how anthracycline chemotherapy affects heart and skeletal-muscle function, and approaches to reducing treatment-related impairment and fatigue.*
 
 ## Programme
 
 | Date | Speaker | Topic |
 | --- | --- | --- |
-| 6 November 2026 | Iain MacPherson | **[HER2-RADiCAL trial](https://www.icr.ac.uk/research-and-discoveries/centres-and-strategic-collaborations/clinical-trials-and-statistics-unit-icr-ctsu/detail/her2-radical):** Investigating whether people with early HER2-positive breast cancer who respond completely to treatment before surgery can safely receive less drug treatment afterwards. |
 | 7 December 2026 | Joel Allotey and Sylvia Kamya | **SPRINT Study (Cardio-oncology):** How anthracycline chemotherapy affects heart and skeletal-muscle function in people with early breast cancer, and approaches to reducing treatment-related impairment and fatigue. |
-| January 2027 (25 January 13:10pm) | Vassilis Pitsinis and colleagues (Dundee) | **[ICG tracer research](https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/influence-indocyanine-green-node-fluorescence-study/):** Using indocyanine green fluorescence as a non-radioactive tracer to identify sentinel lymph nodes during surgery for early breast cancer. |
+| 11 December 2026 | Paulina Strach (Aberdeen) | **PhD study (title to be confirmed).** |
+| 25 January 2027 | Vassilis Pitsinis and colleagues (Dundee) | **[ICG tracer research](https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/influence-indocyanine-green-node-fluorescence-study/):** Using indocyanine green fluorescence as a non-radioactive tracer to identify sentinel lymph nodes during surgery for early breast cancer. |
+
+## Other events
+
+* **Edinburgh Breast Cancer Special Symposium (EBCSS 2027):** Thursday 25 and Friday 26 February 2027, Edinburgh International Conference Centre, with a public lecture on Wednesday 24 February. [Programme and registration](https://www.ebcss.org/register)
+* **National Breast Cancer MCN educational event:** Friday 5 March 2027. Venue and registration details to follow.
 
 ---
 
@@ -32,6 +36,11 @@ We host regular webinars covering topics in breast disease and breast cancer res
 *Click a recording to watch it on our [YouTube channel](https://www.youtube.com/@ScottishBreastStudiesGroup). Recordings have captions and chapters.*
 
 <div class="recording-gallery">
+  <a class="recording-card" href="https://youtu.be/iWCIgKY0kRs">
+    <img src="/assets/images/webinar-2026-11-06-her2-radical.jpg" alt="HER2-RADiCAL trial update, Professor Iain MacPherson" loading="lazy">
+    <strong>HER2-RADiCAL: less treatment after a complete response?</strong>
+    <span>Professor Iain MacPherson · 6 November 2026</span>
+  </a>
   <a class="recording-card" href="https://youtu.be/NgvrYJFyBss">
     <img src="/assets/images/webinar-2026-10-05-cesar.jpg" alt="The CESAR trial: contrast-enhanced mammography versus MRI, Dr Sarah Savaridas" loading="lazy">
     <strong>The CESAR trial: contrast-enhanced mammography versus MRI</strong>
@@ -55,6 +64,10 @@ We host regular webinars covering topics in breast disease and breast cancer res
 </div>
 
 ### 2026
+* **HER2-RADiCAL trial update** (6 November 2026)  
+  * *(Professor Iain MacPherson, Glasgow; chaired by Dr Caroline Michie, Edinburgh)*  
+  * Progress of HER2-RADiCAL, a UK trial that uses the response to treatment before surgery to decide how much HER2-targeted treatment people with early HER2-positive breast cancer need afterwards.
+  * [Watch on YouTube](https://youtu.be/iWCIgKY0kRs) (31 minutes, with captions and chapters)
 * **Update on the CESAR trial** (5 October 2026)  
   * *(Dr Sarah Savaridas, Dundee; chaired by Professor Gerald Lip, Aberdeen)*  
   * Progress of CESAR, a multicentre study comparing contrast-enhanced mammography with MRI for assessing response to neoadjuvant chemotherapy, and a discussion of where contrast-enhanced mammography adds most value in Scotland.
