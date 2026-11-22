@@ -43,6 +43,18 @@ permalink: /studies/
 * **Lead Investigator:** Prof. Iain Macpherson (University of Glasgow / Beatson West of Scotland Cancer Centre).
 * ***Why it matters:** Current standard treatment for HER2-positive breast cancer is very intensive and comes with significant side effects, including a risk of heart damage, as well as high costs to the NHS. By identifying patients who have already had an excellent response to early treatment, this study hopes to spare them unnecessary toxicity and long-term side effects while maintaining their high chance of a cure.*
 
+### SPRINT: Sodium-glucose Transporter Type 2 Inhibition in Anthracycline-related Cardiotoxicity
+* **Purpose:** This mechanistic study tests whether sodium-glucose co-transporter 2 (SGLT2) inhibition protects the heart during anthracycline chemotherapy for early breast cancer, by improving energy metabolism and calcium handling in heart and skeletal muscle.
+* **Population:** Adults aged 18–70 with early breast cancer and low-to-medium cardiovascular risk who are due to receive anthracycline-based chemotherapy before or after surgery. People with high cardiovascular risk, a previous cancer or diabetes are excluded.
+* **Method:** A multicentre randomised study. Participants are allocated 1:1 to dapagliflozin, an SGLT2 inhibitor, alongside standard care, or to standard care alone. At study visits before and after chemotherapy, participants have phosphorus-31 magnetic resonance spectroscopy (³¹P MRS) of the heart and calf muscle to measure high-energy phosphates, manganese-enhanced MRI to assess calcium handling in heart and skeletal muscle, and a standard cardiac MRI. They also have cardiopulmonary exercise testing, blood tests for biomarkers and a thigh-muscle biopsy for microscopy and proteomics. A gadolinium-contrast cardiac MRI is added after chemotherapy.
+* **Key Outcomes:** The primary outcome is the myocardial phosphocreatine to ATP ratio (PCr/γATP) measured by cardiac ³¹P MRS. Secondary outcomes include myocardial calcium handling; cardiac troponin, NT-proBNP and serum metabolites; skeletal-muscle energetics by calf ³¹P MRS; and molecular markers of muscle atrophy, sarcomere density, mitochondrial copy number and proteomics.
+* **Locations:** Recruiting across NHS Grampian, NHS Orkney, NHS Shetland and NHS Tayside.
+* **[Website](https://clinicaltrials.gov/study/NCT07070765)** (ClinicalTrials.gov NCT07070765)
+* **Funder:** British Heart Foundation (BHF) and Friends of ANCHOR.
+* **Lead Investigator:** Prof. Dana Dawson (University of Aberdeen).
+* **Webinar:** Dr Joel Allotey and Sylvia Kamya present SPRINT on Monday 7 December 2026. [Details](/webinars/)
+* ***Why it matters:*** *Anthracycline-related cardiomyopathy affects up to 10% of patients, and more have subclinical heart impairment. Damage to skeletal muscle has cardiometabolic consequences that can predispose to further cardiovascular disease in later life, after curative treatment for early breast cancer. SPRINT measures how anthracyclines disturb heart and muscle metabolism and whether SGLT2 inhibition can prevent it.*
+
 ### BREAST-AI: Breast cancer clinical Record Evaluation and AI-powered Summary Tool
 * **Purpose:** To validate the accuracy, clinical utility, and stakeholder acceptability of an AI-powered clinical summary system that automatically integrates data from multiple NHS sources and presents comprehensive, personalised breast cancer care information through clinician-facing and patient-facing web based interfaces.
 * **Population:** Adults (≥18 years) with a diagnosis of breast cancer under active oncology follow-up, recruited from three NHS breast oncology departments across two health boards.
