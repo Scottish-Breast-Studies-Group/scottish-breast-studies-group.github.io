@@ -56,3 +56,12 @@ To receive updates on collaborative research opportunities, webinars, and meetin
   <a href="/blog/playing-with-other-peoples-data/" class="blog-feature-link">Read the article <span aria-hidden="true">&rarr;</span></a>
 </section>
 
+<section class="blog-feature blog-feature--affiliated" aria-labelledby="affiliated-blog">
+  <p class="blog-feature-label">Affiliated blog</p>
+  <h2 id="affiliated-blog">From Edinburgh Cancer Informatics</h2>
+  <h3><a href="https://edinburghcancerinformatics.org.uk/2026/11/23/scotland-breast-cancer-recurrence-rates/">Breast cancer recurrence in Scotland: the first national rates</a></h3>
+  <p class="blog-feature-byline">Edinburgh Cancer Informatics Research Group, University of Edinburgh, led by Professor Peter Hall</p>
+  <p>Scotland's first national five-year recurrence rates, for women diagnosed in 2017: 1.3% in the same breast after breast-conserving surgery, 2.3% on the treated side after mastectomy, and 9.4% for any recurrence. The post argues that linking these figures to treatment, genomic and deprivation data would help to identify secondary breast cancer.</p>
+  <a href="https://edinburghcancerinformatics.org.uk/2026/11/23/scotland-breast-cancer-recurrence-rates/" class="blog-feature-link">Read on the Edinburgh Cancer Informatics blog <span aria-hidden="true">&rarr;</span></a>
+</section>
+

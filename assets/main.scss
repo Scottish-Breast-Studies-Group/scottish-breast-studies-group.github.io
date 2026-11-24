@@ -329,6 +329,16 @@ h1, h2, h3, h4 {
   text-decoration: none;
 }
 
+.blog-feature--affiliated {
+  margin-top: 16px;
+  background: #f6f8fa;
+  border-left-color: $cliff-rust;
+}
+
+.blog-feature--affiliated::after {
+  border-color: rgba($cliff-rust, 0.14);
+}
+
 /* --- Blog Article --- */
 .post-content {
   font-size: 1.04rem;
