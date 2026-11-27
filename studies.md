@@ -52,7 +52,7 @@ permalink: /studies/
 * **[Website](https://clinicaltrials.gov/study/NCT07070765)** (ClinicalTrials.gov NCT07070765)
 * **Funder:** British Heart Foundation (BHF) and Friends of ANCHOR.
 * **Lead Investigator:** Prof. Dana Dawson (University of Aberdeen).
-* **Webinar:** Dr Joel Allotey and Sylvia Kamya present SPRINT on Monday 7 December 2026 at 13:00. [Details](/webinars/)
+* **Webinar:** Dr Joel Allotey and Sylvia Kamya present SPRINT on Monday 7 December 2026 at 13:00. [Register](https://events.teams.microsoft.com/event/d26eb9ff-7d99-45d3-9f29-6bcabf933dfd@2e9f06b0-1669-4589-8789-10a06934dc61) or see [details](/webinars/)
 * ***Why it matters:*** *Anthracycline-related cardiomyopathy affects up to 10% of patients, and more have subclinical heart impairment. Damage to skeletal muscle has cardiometabolic consequences that can predispose to further cardiovascular disease in later life, after curative treatment for early breast cancer. SPRINT measures how anthracyclines disturb heart and muscle metabolism and whether SGLT2 inhibition can prevent it.*
 
 ### BREAST-AI: Breast cancer clinical Record Evaluation and AI-powered Summary Tool

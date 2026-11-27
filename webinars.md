@@ -13,7 +13,7 @@ We host regular webinars covering topics in breast disease and breast cancer res
 * **Date:** Monday 7 December 2026
 * **Time:** 13:00 – 13:40
 * **Platform:** Microsoft Teams
-* **Registration:** link to follow
+* **Registration:** [Register on Microsoft Teams](https://events.teams.microsoft.com/event/d26eb9ff-7d99-45d3-9f29-6bcabf933dfd@2e9f06b0-1669-4589-8789-10a06934dc61)
 
 *SPRINT (Sodium-glucose Transporter Type 2 Inhibition in Anthracycline-related Cardiotoxicity) is a multicentre mechanistic study in people with early breast cancer. Joel and Sylvia will describe how anthracycline chemotherapy affects heart and skeletal-muscle function, and approaches to reducing treatment-related impairment and fatigue.*
 
@@ -21,8 +21,8 @@ We host regular webinars covering topics in breast disease and breast cancer res
 
 | Date | Speaker | Topic |
 | --- | --- | --- |
-| 7 December 2026 | Joel Allotey and Sylvia Kamya | **SPRINT study: SGLT2 inhibition in anthracycline-related cardiac and skeletal muscle toxicity.** How anthracycline chemotherapy affects heart and skeletal-muscle function in people with early breast cancer, and approaches to reducing treatment-related impairment and fatigue. |
-| 11 December 2026 | Paulina Strach (Aberdeen) | **PhD study (title to be confirmed).** |
+| 7 December 2026 | Joel Allotey and Sylvia Kamya | **SPRINT study: SGLT2 inhibition in anthracycline-related cardiac and skeletal muscle toxicity.** How anthracycline chemotherapy affects heart and skeletal-muscle function in people with early breast cancer, and approaches to reducing treatment-related impairment and fatigue. 13:00. [Register](https://events.teams.microsoft.com/event/d26eb9ff-7d99-45d3-9f29-6bcabf933dfd@2e9f06b0-1669-4589-8789-10a06934dc61) |
+| 11 December 2026 | Paulina Strach (Aberdeen) | **Why is it hard to recruit to de-escalation trials? Exploring clinicians’ experiences in breast cancer research.** The DECIDE study, which is recruiting UK healthcare professionals involved in de-escalation trials. 13:10. [Register](https://events.teams.microsoft.com/event/8dcf1321-11cc-4894-adca-43472727ad2f@2e9f06b0-1669-4589-8789-10a06934dc61) |
 | 25 January 2027 | Vassilis Pitsinis and colleagues (Dundee) | **[ICG tracer research](https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/influence-indocyanine-green-node-fluorescence-study/):** Using indocyanine green fluorescence as a non-radioactive tracer to identify sentinel lymph nodes during surgery for early breast cancer. |
 
 ## Other events
